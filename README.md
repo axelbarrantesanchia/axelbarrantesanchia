@@ -25,7 +25,7 @@
 
   <h3 align="center">Let's connect!</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/axel-barrantes-anchia/">
+    <a href="https://www.linkedin.com/in/axelbarrantesanchia/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:axel.barrantes@gmail.com">
