@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi I'm Axel</h1>
-  <h4 align="center">AWS Back-End Developer</h4>
+  <h1 align="center">¡Hi I'm Axel!</h1>
   <img src="https://github.com/axelbarrantesanchia/axelbarrantesanchia/blob/main/Banner.png">, 
 
   <p align="center">
