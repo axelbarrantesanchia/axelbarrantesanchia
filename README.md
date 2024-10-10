@@ -11,8 +11,6 @@
   <p align="center">
     💻 Proficient in Java, Python, and scripting<br>
     ☁️ AWS Certified Cloud Practitioner | Cloud Specialist<br>
-    🔧 Skilled in API development, microservices architecture, and database management<br>
-    📈 Strong knowledge of CI/CD, DevOps practices, and infrastructure as code (IaC)<br>
   </p>
 
   <h3 align="center">Tech Stack</h3>
@@ -34,6 +32,15 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </p>
+    <p align="center">
+      <a href="https://instagram.com/anc._anchia" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="axel" height="30"/></a>
+      <a href="https://wa.me/+50671190108" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="axel" height="30"/></a>
+      <br>
+    </p>
 </div>
 
 
