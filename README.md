@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Axel</h1>
+<h1 align="center">Hi<img width="35" src="">, I'm Axel</h1>
 <h4 align="center"> Aws Back end Developer<h4/>
 
   -----
@@ -33,4 +33,3 @@
 </div>
 </details>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
