@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi <img width="35" src="">, I'm Axel</h1>
+  <h1 align="center">Hi <img width="35" src="https://github.com/axelbarrantesanchia/axelbarrantesanchia/blob/main/Banner.png">, I'm Axel</h1>
   <h4 align="center">AWS Back-End Developer</h4>
 
   <p align="center">
