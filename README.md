@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi I'm Axel</h1>
   <h4 align="center">AWS Back-End Developer</h4>
-  <img width="120" src="https://github.com/axelbarrantesanchia/axelbarrantesanchia/blob/main/Banner.png">, 
+  <img src="https://github.com/axelbarrantesanchia/axelbarrantesanchia/blob/main/Banner.png">, 
 
   <p align="center">
     Passionate about designing scalable, secure, and efficient cloud-based solutions with AWS. 
