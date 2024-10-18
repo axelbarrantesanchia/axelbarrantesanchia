@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">¡Hi I'm Axel!</h1>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkzcngweGJqczExMHBoZmFlMGlscnQyNjJ0MXJhMzNpbjBoZHNpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZBythhSiZAoYea6vC2/200.webp">, 
+  <img src="https://media1.tenor.com/m/Yzeh4Z4UQuAAAAAC/viciadoemcodar.gif">, 
 
   <p align="center">
     Passionate about designing scalable, secure, and efficient cloud-based solutions with AWS. 
